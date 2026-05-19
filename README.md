@@ -122,7 +122,7 @@ Two-page interactive dashboard built in Power BI Desktop.
 - Average Spend by Segment bar chart
 - Recency vs Frequency comparison chart
 - Business insight callouts
-  <img width="2045" height="1150" alt="Zrzut ekranu 2026-05-19 191543" src="https://github.com/user-attachments/assets/b5d3cf97-0d35-4f86-a2ae-773d25b5b259" />
+<img width="2045" height="1150" alt="Zrzut ekranu 2026-05-19 191543" src="https://github.com/user-attachments/assets/b5d3cf97-0d35-4f86-a2ae-773d25b5b259" />
 
 
 **Page 2 — Segment Action Plan**
